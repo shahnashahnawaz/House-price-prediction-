@@ -77,19 +77,3 @@ Run the notebook house_prices_prediction.ipynb
 
 📜 Acknowledgements
 Kaggle Dataset: House Prices - Advanced Regression Techniques
-
-yaml
-Copy
-Edit
-
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
